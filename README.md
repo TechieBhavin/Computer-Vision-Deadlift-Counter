@@ -6,8 +6,8 @@ Predict if user is up or down with sklearn model and mediapipe in a tkinter app.
 
 Here I learned:
 
-Model Embedding
-Mediapipe
+Model Embedding,
+Mediapipe,
 Tkinter
 
 
